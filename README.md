@@ -1,1 +1,1 @@
-# yandex-project3
+# Wishly
